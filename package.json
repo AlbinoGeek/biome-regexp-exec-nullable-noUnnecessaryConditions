@@ -1,0 +1,13 @@
+{
+  "name": "biome-regexp-exec-nullable-noUnnecessaryConditions",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "biome lint src",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.14",
+    "typescript": "7.0.2"
+  }
+}

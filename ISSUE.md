@@ -1,5 +1,5 @@
-DRAFT — NOMAD reviews before posting. Not filed. Target: comment on existing issue
-<https://github.com/biomejs/biome/issues/11278>, not a new issue.
+FILED — posted as a comment on the existing issue
+<https://github.com/biomejs/biome/issues/11278#issuecomment-5745734298>, not a new issue.
 
 Reasoning: #11278 already reports the same root cause (`suspicious/noUnnecessaryConditions`
 treating `RegExp.prototype.exec()`'s `RegExpExecArray | null` return as non-nullable) and is
